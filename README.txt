@@ -1,0 +1,1 @@
+This is specifically for Project64 users, i deleted my file so i thought this was a good idea, just move to the plugin folder and ur done
